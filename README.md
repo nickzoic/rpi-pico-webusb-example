@@ -13,3 +13,5 @@ make
 # mount the device then copy the firmware
 cp build/firmware.uf2 /media/$USER/RPI-RP2/
 ```
+
+See also https://github.com/raspberrypi/tinyusb/issues/3
